@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Practicum6/Practicum6.csproj" />
+  <Project Path="StoreSystem/StoreSystem.csproj" />
+  <Project Path="ZondOS/ZondOS.csproj" />
+</Solution>
