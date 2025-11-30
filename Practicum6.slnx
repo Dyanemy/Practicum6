@@ -1,5 +1,10 @@
 <Solution>
+  <Project Path="EncodingFile/EncodingFile.csproj" Id="5005e235-b797-4bd4-ac12-f3aaaae4f335" />
   <Project Path="Practicum6/Practicum6.csproj" />
+  <Project Path="RecursiveException/RecursiveException.csproj" Id="297395b3-a30c-4ef3-80ef-c3ab9cc795ec" />
+  <Project Path="SearchMaxNumber/SearchMaxNumber.csproj" Id="8b4dd196-f474-4b9b-9791-b9592c723348" />
   <Project Path="StoreSystem/StoreSystem.csproj" />
+  <Project Path="Unicode/Unicode.csproj" Id="7da8a6e9-9eeb-4724-bc04-cf5d485adfb2" />
+  <Project Path="ZeroException/ZeroException.csproj" Id="e4056234-bd59-4648-84ac-d9ca3b5f0e4b" />
   <Project Path="ZondOS/ZondOS.csproj" />
 </Solution>
